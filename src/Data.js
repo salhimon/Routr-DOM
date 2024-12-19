@@ -86,7 +86,7 @@ export const moviesData = [
         description:
             "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
         posterUrl:
-            "https://cinesite-media-cloud-production.s3-accelerate.amazonaws.com/2017/04/avengers-infinity-war-poster-1093756-528x787.jpeg",
+            "https://images-cdn.ubuy.co.in/652d199f333a48639f5888f3-avengers-infinity-war-dvd.jpg",
         trailer:"https://www.youtube.com/embed/6ZfuNTqbHE8",
     },
     {
